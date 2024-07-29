@@ -1,2 +1,2 @@
 # from-utc-to-kst-timestamp
-A small python script to switch from UTC timezone to KST timezone and print them as timestamps
+A small example script written in python to switch from UTC timezone to KST timezone and print them as timestamp
